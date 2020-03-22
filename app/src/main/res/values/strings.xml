@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="current_city_not_set_yet">Current city not set yet</string>
+    <string name="set_current_city">Set Current City</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="search_for_the_city_from_the_search_box_and_save_it">Search for the city from the search box and save it</string>
+    <string name="there_are_no_cities_to_display">There are no cities to display</string>
+    <string name="API_KEY">uvCzf6UEj0OSsMMGfYhfEXDUcZoNlN6C</string>
+</resources>
